@@ -1,2 +1,2 @@
 # website
-A website that leaves on stundio.org
+A website that lives on stundio.org
